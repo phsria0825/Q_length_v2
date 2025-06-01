@@ -1,0 +1,15 @@
+<routes>
+  <vType id="passenger" vClass="passenger"/>
+  <vType id="bus" vClass="bus"/>
+  <vType id="truck" vClass="truck"/>
+  <vType id="emergency" vClass="emergency"/>
+  <vType id="motorcycle" vClass="motorcycle"/>
+  <vType id="trailer" vClass="trailer"/>
+  <vType id="1" vClass="passenger"/>
+  <vType id="2" vClass="passenger"/>
+  <vType id="4" vClass="passenger"/>
+  <vType id="8" vClass="passenger"/>
+  <vType id="10" vClass="truck"/>
+  <vType id="20" vClass="bus"/>
+  <vType id="40" vClass="motorcycle"/>
+</routes>

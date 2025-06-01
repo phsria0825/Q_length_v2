@@ -1,0 +1,5 @@
+sub_area_id,root_id,node_id,major_intersection_separating_code,sequence
+1,1,cluster_215147_215420,2,1
+1,1,215173,1,2
+2,2,cluster_215174_J3,1,1
+2,3,cluster_214964_216637_216638_216639,1,1

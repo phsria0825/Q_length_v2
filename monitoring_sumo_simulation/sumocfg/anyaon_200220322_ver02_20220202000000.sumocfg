@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-09-07 09:12:13 by Eclipse SUMO GUI Version v1_13_0+0728-092f803c3ab
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="../sumo_net/anyang_20220322_ver02.net.xml"/>
+        <route-files value="../sumo_net/exp.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="1643727300.0"/>
+        <step-length value="1"/>
+    </time>
+
+    <traci_server>
+        <remote-port value="59964"/>
+    </traci_server>
+
+</configuration>

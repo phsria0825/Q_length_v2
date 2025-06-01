@@ -1,0 +1,9 @@
+﻿code_nm,python_code_nm
+◆v_in_scen_id,{scen_id}
+◆v_in_anly_wk,{anly_wk}
+◆v_in_anly_detail,{anly_detail}
+◆v_in_anly_tm,{anly_tm}
+◆v_in_batch_1,{self.call_time}
+◆v_in_batch_5,{self.call_time}
+◆v_in_rgn_prttn_cd,{self.target_area}
+◆v_in_batch_60,{self.call_time}

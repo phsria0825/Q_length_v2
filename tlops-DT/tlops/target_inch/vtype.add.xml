@@ -1,0 +1,8 @@
+<additional>
+  <vType id="1" vClass="passenger"/>
+  <vType id="2" vClass="bus"/>
+  <vType id="3" vClass="truck"/>
+  <vType id="4" vClass="trailer"/>
+  <vType id="5" vClass="emergency"/>
+  <vType id="6" vClass="motorcycle"/>
+</additional>

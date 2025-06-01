@@ -1,0 +1,6 @@
+license version
+별도 라이센스 가이드 포함하지 않습니다.아래 프로그램을 설치후 에 Readme 파일의 순서대로 환경셋팅이 필요합니다.
+* Anaconda(https://www.anaconda.com/products/distribution#download-section)
+* Python==3.8.13
+* Tensorflow==2.8.0
+* Sumo==1.14.1 (https://www.eclipse.org/sumo/)

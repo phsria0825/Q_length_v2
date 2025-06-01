@@ -1,0 +1,68 @@
+<data>
+  <interval id="generated" begin="1660075260.0" end="1660075320.0">
+    <edgeRelation from="477605406_02" to="477744474_01" count="2"/>
+  </interval>
+  <interval id="generated" begin="1660075380.0" end="1660075440.0">
+    <edgeRelation from="477714888_02" to="477706439_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075440.0" end="1660075500.0">
+    <edgeRelation from="477605619_02" to="477605452_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075440.0" end="1660075500.0">
+    <edgeRelation from="477706392_02" to="477707013_01" count="2"/>
+  </interval>
+  <interval id="generated" begin="1660075500.0" end="1660075560.0">
+    <edgeRelation from="477604827_010101_02" to="477604732_02" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075500.0" end="1660075560.0">
+    <edgeRelation from="477765074_01" to="477753313_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075560.0" end="1660075620.0">
+    <edgeRelation from="477649571_010101_02" to="477604827_02_02" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075620.0" end="1660075680.0">
+    <edgeRelation from="477604193_01" to="477603993_02_02" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075620.0" end="1660075680.0">
+    <edgeRelation from="477605406_02" to="477744474_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075620.0" end="1660075680.0">
+    <edgeRelation from="477605619_02" to="477605452_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075620.0" end="1660075680.0">
+    <edgeRelation from="477706392_02" to="477707013_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075680.0" end="1660075740.0">
+    <edgeRelation from="477757554_02" to="477753313_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075740.0" end="1660075800.0">
+    <edgeRelation from="477604193_01" to="477670332_02" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075800.0" end="1660075860.0">
+    <edgeRelation from="477605406_02" to="477744474_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075800.0" end="1660075860.0">
+    <edgeRelation from="477605619_02" to="477605452_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075800.0" end="1660075860.0">
+    <edgeRelation from="477706392_02" to="477707013_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075800.0" end="1660075860.0">
+    <edgeRelation from="477744474_02" to="477605406_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075860.0" end="1660075920.0">
+    <edgeRelation from="477604020_02" to="477604635_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660075920.0" end="1660075980.0">
+    <edgeRelation from="477706392_02" to="477707013_01" count="2"/>
+  </interval>
+  <interval id="generated" begin="1660075980.0" end="1660076040.0">
+    <edgeRelation from="477765078_01" to="477748652_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660076040.0" end="1660076100.0">
+    <edgeRelation from="477605452_02" to="477605619_01" count="1"/>
+  </interval>
+  <interval id="generated" begin="1660076040.0" end="1660076100.0">
+    <edgeRelation from="477714888_02" to="477706439_01" count="1"/>
+  </interval>
+</data>
